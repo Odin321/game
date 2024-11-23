@@ -1,0 +1,10 @@
+/* Basic reset */
+body {
+  margin: 0;
+  overflow: hidden;
+}
+
+/* Make sure the canvas covers the full screen */
+canvas {
+  display: block;
+}
